@@ -21,36 +21,7 @@
     "mode": "block"
   },
   "cors": {
-    "enabled": true,
-    "origin": "https://rest-frontend-proce.herokuapp.com/",
-    "expose": [
-      "WWW-Authenticate",
-      "Server-Authorization"
-    ],
-    "maxAge": 31536000,
-    "credentials": true,
-    "methods": [
-      "GET",
-      "POST",
-      "PUT",
-      "PATCH",
-      "DELETE",
-      "OPTIONS",
-      "HEAD"
-    ],
-    "headers": [
-      "Access-Control-Allow-Origin",
-      "Content-Type",
-      "Authorization",
-      "X-Frame-Options",
-      "Origin",
-      "X-Requested-With",
-      "Accept",
-      "Client-Security-Token",
-      "Accept-Encoding",
-      "X-Auth-Token",
-      "content-type"
-    ]
+    "enabled": true
   },
   "ip": {
     "enabled": false,
