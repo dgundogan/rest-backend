@@ -7,7 +7,7 @@
         "uri": "mongodb://dgundogan:dgundogan123@ds031541.mlab.com:31541/testdg"
       },
       "options": {
-        "ssl": false
+        "ssl": true
       }
     }
   }
