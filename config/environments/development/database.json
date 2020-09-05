@@ -4,7 +4,7 @@
     "default": {
       "connector": "mongoose",
       "settings": {
-        "uri": "mongodb://dgundogan:dgundogan123@ds031541.mlab.com:31541/testdg"
+        "uri": "mongodb://admin:admin123@ds253567.mlab.com:53567/rest"
       },
       "options": {
         "ssl": false
