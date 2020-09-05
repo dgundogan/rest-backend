@@ -4,10 +4,10 @@
     "default": {
       "connector": "mongoose",
       "settings": {
-        "uri": "${process.env.DATABASE_URI}"
+        "uri": "mongodb://dgundogan:dgundogan123@ds031541.mlab.com:31541/testdg"
       },
       "options": {
-        "ssl": true
+        "ssl": false
       }
     }
   }
