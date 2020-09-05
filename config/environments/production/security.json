@@ -39,6 +39,7 @@
       "HEAD"
     ],
     "headers": [
+      "Access-Control-Allow-Origin",
       "Content-Type",
       "Authorization",
       "X-Frame-Options",
